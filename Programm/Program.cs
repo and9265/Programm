@@ -15,7 +15,7 @@ namespace Programm
             int b = Convert.ToInt32(Console.ReadLine());
             //num.WriteNum(a, b);
             num.WriteSum(a, b);
-            
+            Console.WriteLine("hi");
 
 
 
